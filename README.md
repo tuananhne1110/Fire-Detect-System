@@ -1,7 +1,5 @@
 # Fire Detection System
 
-# ![90e9f966-d3a3-430f-9e11-9e5edb64a5a3](https://github.com/tuananhne1110/Fire_Detection_System/assets/119232218/d8e26172-7982-4738-bca4-5025b0abb469)
-
 ## Overview
 The Fire Detection System is a comprehensive solution designed to detect fire through various sources, including images, videos, and real-time camera feeds. This system leverages advanced machine learning models to identify fire with high accuracy and provides a user-friendly interface for monitoring and detection.
 
