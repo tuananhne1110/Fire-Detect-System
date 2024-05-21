@@ -32,7 +32,7 @@ formatted_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 FOLDER_NOW_PATH = './uploads'
 model = YOLO("./best.pt")
 os.environ["OPENCV_FFMPEG_CAPTURE_OPTIONS"] = "rtsp_transport;udp"
-url = 'rtsp://admin:Ditmemay1@172.20.10.6:554/onvif1'
+url = 'rtsp://admin:Hello@172.20.10.6:554/onvif1'
 
 class ImageProcessor:
     def __init__(self, file):
