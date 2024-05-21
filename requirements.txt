@@ -1,0 +1,7 @@
+ultralytics == 8.1.15
+opencv-python == 4.9.0.80
+pandas == 2.2.0
+werkzeug == 3.0.1
+flask == 3.0.2
+ffmpeg-python == 0.2.0
+Flask-Session == 0.6.0
