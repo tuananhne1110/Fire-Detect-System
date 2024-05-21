@@ -58,11 +58,11 @@ Required Python packages listed in 'requirements.txt'
 To set up email notifications, update the config.py file with your email credentials and recipient address:
 
 # Email Configuration
-email_flag = 0
-smtp_port = 587
-smtp_server = "smtp.example.com"
-email_from = "your_email@example.com"
-email_list = ["recipient@example.com"]
-pswd = 'your_password'
-subject = "mail_subject"
-formatted_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+- email_flag = 0
+- smtp_port = 587
+- smtp_server = "smtp.example.com"
+- email_from = "your_email@example.com"
+- email_list = ["recipient@example.com"]
+- pswd = 'your_password'
+- subject = "mail_subject"
+- formatted_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
