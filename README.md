@@ -23,20 +23,19 @@ Virtual environment tools (optional but recommended)
 Required Python packages listed in 'requirements.txt'
 
 **Steps
-1. Clone the Repository
-"""
-   git clone https://github.com/yourusername/fire-detection-system.git
-   cd fire-detection-system"""
+1. Clone the Repository:
+   -git clone https://github.com/yourusername/fire-detection-system.git
+   -cd fire-detection-system
    
-2. Create and Activate Virtual Environment (Optional)
-  python -m venv venv
-  source venv/bin/activate  # On Windows: venv\Scripts\activate
+2. Create and Activate Virtual Environment (Optional):
+   -python -m venv venv
+   -source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. Install Dependencies
-   pip install -r requirements.txt
+3. Install Dependencies:
+   -pip install -r requirements.txt
 
-4. Run the Application
-   python app.py
+4. Run the Application"
+   -python app.py
 
 ## Usage
 1. Image and Video Detection
